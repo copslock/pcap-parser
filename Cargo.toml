@@ -4,8 +4,8 @@ version = "0.1.0"
 description = "Parser for the PCAP/PCAPNG format"
 license = "MIT/Apache-2.0"
 keywords = ["pcap","pcapng","parser","nom"]
-homepage = "https://github.com/rusticata/pcap-parser"
-repository = "https://github.com/rusticata/pcap-parser.git"
+homepage = "https://github.com/copslock/pcap-parser"
+repository = "https://github.com/copslock/pcap-parser.git"
 authors = ["Pierre Chifflier <chifflier@wzdftpd.net>"]
 
 [dependencies]
